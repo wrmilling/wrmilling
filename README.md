@@ -2,5 +2,4 @@
   <a href="https://github.com/WRMilling">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wrmilling&show_icons=true&theme=gotham&count_private=true&hide=stars" />
   </a>
-  <a rel="me" href="https://mastodon.homelab.tokyo/@Winston">.</a>
 </p>
